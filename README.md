@@ -97,7 +97,7 @@ Refleja el dinero restante después de gastos y ahorro.
 ## Acceso al Dashboard
 
 Puedes ver el archivo en Google Sheets aquí:
-[Ver dashboard]((https://docs.google.com/spreadsheets/d/11TnSU50x8pS3MGPZmUCBRnhRKIaUeziFK5h4mlLm7Ls/edit?usp=sharing))
+[Ver dashboard](https://docs.google.com/spreadsheets/d/11TnSU50x8pS3MGPZmUCBRnhRKIaUeziFK5h4mlLm7Ls/edit?usp=sharing)
 
 ---
 
